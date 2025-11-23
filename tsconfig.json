@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es6",          // Versão do JavaScript para a qual o código será compilado
+    "target": "es2020",          // Versão do JavaScript para a qual o código será compilado
     "module": "commonjs",     // Sistema de módulos
     "strict": true,           // Habilita verificações estritas
     "esModuleInterop": true,  // Permite interoperabilidade com módulos ES6
